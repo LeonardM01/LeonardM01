@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I'm Leonard Martinis. A computer science student from Croatia with a passion for programming. 
 
-https://img.shields.io/static/v1?label=<HTML5>&color=<PURPLE>
+https://img.shields.io/static/v1?style=flat&logo=html5&label=HTML5&message=✔️&color=purple
 
 
 
