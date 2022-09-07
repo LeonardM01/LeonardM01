@@ -6,4 +6,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardM01&layout=compact&langs_count=8&theme=nightowl&show_icons=true)
 )](https://github.com/anuraghazra/github-readme-stats)
-)
