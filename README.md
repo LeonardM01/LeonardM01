@@ -5,4 +5,4 @@
 ![js](https://img.shields.io/static/v1?style=flat&logo=javascript&label=JavaScript&message=✔️&color=blueviolet)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardM01&layout=compact&langs_count=8&theme=nightowl&show_icons=true)
-)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
