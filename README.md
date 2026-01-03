@@ -72,7 +72,7 @@ I'm a **Full Stack Engineer** and **Entrepreneur** who enjoys building things pe
   
   ![GitHub Stats](https://github-readme-stats-two-green.vercel.app/api?username=leonardm01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardm01&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+  ![GitHub Streak](https://github-stats-woad.vercel.app/?user=leonardm01&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
 
 </div>
 
