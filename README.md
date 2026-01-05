@@ -52,11 +52,11 @@ I'm a **Full Stack Engineer** and **Entrepreneur** who enjoys building things pe
 
 ## 💼 What I'm Working On
 
-### 🌐 Meridian Digital Agency
+### 🌐 Meridian Digital
 **Full Stack Engineer**
-- Building cutting-edge digital solutions for clients worldwide
-- Architecting scalable, high-performance applications
-- Leading a team on complex projects
+- Building modern digital products for clients around the world
+- Designing scalable, high-performance applications
+- Helping clients scale and push their products further
 
 ### 🩺 Medusa - Medical AI Operating System
 **Co-founder & Lead Developer**
